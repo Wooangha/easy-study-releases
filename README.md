@@ -50,7 +50,7 @@
 - **내 자료가 어딘가로 올라가나요?**
   아니요. 강의 자료, 노트, 녹음은 내 컴퓨터에만 있어요. AI에게 물어볼 때만 그 슬라이드가 여러분의 AI 계정으로 전달돼요.
 - **소스 코드는 어디 있나요?**
-  비공개예요. 이 저장소에는 설치 파일만 있어요.
+  [Wooangha/easy-study](https://github.com/Wooangha/easy-study)에 공개돼 있어요(MIT 라이선스). 이 저장소에는 설치 파일과 업데이트 파일만 있어요.
 - **문제가 생겼어요.**
   [Issues](https://github.com/Wooangha/easy-study-releases/issues)에 남겨 주세요.
 
